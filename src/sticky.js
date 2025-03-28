@@ -62,7 +62,7 @@ class Sticky {
     }, 10);
   }
 
-  // this is to test commits
+  // this is to test commits   
 
   /**
    * Function that assign needed variables for sticky element, that are used in future for calculations and other
